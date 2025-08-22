@@ -1,5 +1,6 @@
 ## Hi
 I am K7892ew, Welcome to my profile
+i do links issues
 <!--
 **K7892ew/K7892ew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
